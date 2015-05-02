@@ -50,7 +50,7 @@ ul li {
 
 html,
 body {
-  font-family: 'berthold_akzidenz_grotesk_bRg';
+  font-family: 'berthold_akzidenz_grotesk_bRg', Sans-Serif;
   height: 100%;
   background-color: white;
 }
@@ -187,6 +187,6 @@ body {
   .masthead,
   .mastfoot,
   .cover-container {
-    width: 850px;
+    width: 900px;
   }
 }

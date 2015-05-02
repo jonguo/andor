@@ -1293,12 +1293,14 @@ h6,
 }
 p {
   margin: 0 0 10px;
+  text-align: left;
+  font-size: 16px;
 }
 .lead {
   text-align: left;
   /*margin-bottom: 20px;*/
-  font-size: 16px;
-  font-weight: 300;
+  /*font-size: 8px;*/
+  /*font-weight: 100;*/
   line-height: 1.4;
 }
 @media (min-width: 768px) {
